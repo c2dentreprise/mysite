@@ -12,6 +12,7 @@ Site web officiel de C2D ENTREPRISE, entreprise spécialisée dans les services 
 c2d-entreprise/
 │
 ├── index.html
+├── contact.html
 ├── style.css
 ├── script.js
 ├── README.md
